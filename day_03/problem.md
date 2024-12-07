@@ -1,4 +1,4 @@
-# Mull It Over
+# Day 3: Mull It Over
 
 ## Part One
 
